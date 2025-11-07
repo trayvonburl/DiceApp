@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_button">Roll</string>
+    <string name="clear_history">Clear history</string>
+    <string name="toggle_save_history">Save history</string>
+    <string name="last_roll">Last roll: %1$d</string>
+    <string name="history_title">Roll history</string>
+    <string name="confirm_clear_title">Clear history?</string>
+    <string name="confirm_clear_message">This will delete all saved rolls. Continue?</string>
+    <string name="confirm_clear_yes">Yes</string>
+    <string name="confirm_clear_no">No</string>
+    <string name="die_image_desc">Die showing %1$d</string>
+</resources>
